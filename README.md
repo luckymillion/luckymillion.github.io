@@ -1,14 +1,13 @@
-# N年前写的年会抽奖程序
+##Drawing process:
 
-[demo](https://fouber.github.io/lottery/)
+1. Choose the number of people who will be drawn for the second lottery (**10**)
+2. Click the "Start" button to enter the lottery state (the number of draws can still be modified in this process)
+3. Click "Stop! 』Button to generate the lottery result
+4. Click any button, you can return to the idle state, the user who has won the prize is marked as yellow, and will not click twice
+PS: Roll the mouse wheel to zoom in or out of the sphere
 
+Select the set of data closest to 8:00 p.m. Pacific time as the winning number
 
-
-## 抽奖流程：
-
-1. 选择当次要抽奖的人数（30、10、5、2、1）
-2. 点击『开始』按钮，进入抽奖状态（这个过程仍可修改抽奖人数）
-3. 点击『停！』按钮，生成抽奖结果
-4. 点击任意人数按钮，可以回到闲置状态，已中奖的用户标记为黄色，不会二次命中
-
-PS：滚动鼠标滚轮，可以放大或缩小球体
+Fund supervision account：0x779084304Ff90E8be79d5C4DBd1Ca323B9Ac555E
+Prize pool allocation account：0xBC29B6B619dC5E03066E3c5201Fb13cd86048aD0
+Fund account：0x063B2ca2778Ada48d33F747a2d6DfE77499359b7
