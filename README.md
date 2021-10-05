@@ -1,7 +1,7 @@
 ##Drawing process:
 
-1. Choose the number of people who will be drawn for the second lottery (**10**)
-2. Click the "Start" button to enter the lottery state (the number of draws can still be modified in this process)
+1. Select the number of draws  (**10**)
+2. Click the "Start" button to enter the lottery state
 3. Click "Stop! 』Button to generate the lottery result
 4. Click any button, you can return to the idle state, the user who has won the prize is marked as yellow, and will not click twice
 PS: Roll the mouse wheel to zoom in or out of the sphere
